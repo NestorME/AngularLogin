@@ -13,12 +13,12 @@ import { routes } from './app.routes';
 import { HomeComponent } from './pages/home/home.component';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyCPU32H6RctCJzBzX0X0HPdgUisDDLQsOE",
-  authDomain: "angularproyect-6962d.firebaseapp.com",
-  databaseURL: "https://angularproyect-6962d.firebaseio.com",
-  projectId: "angularproyect-6962d",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
   storageBucket: "",
-  messagingSenderId: "262794882801"
+  messagingSenderId: ""
 };
 
 @NgModule({
