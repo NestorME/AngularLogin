@@ -1,6 +1,7 @@
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
+with this project you can get a simple login with firebase and a simple menu burger
 
 ## Development server
 
