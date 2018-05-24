@@ -27,10 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Google api firebase 
-create an acount in firebase and enable the authentication for google  next in the click in web configuration 
+create an acount in firebase and enable the authentication for google  next in the click in web configuration then 
 
 ## edite the app.module.ts
 copy the information in each one of the spaces
+```
 export const firebaseConfig = {
   apiKey: '',
   authDomain: '',
@@ -39,3 +40,4 @@ export const firebaseConfig = {
   storageBucket: 'angularproyect.appspot.com',
   messagingSenderId: ''
 };
+```
